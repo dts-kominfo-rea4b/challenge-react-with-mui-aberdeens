@@ -22,7 +22,6 @@ const App = () => {
 
   // Masukkan contacts yang sudah didapat dalam JSON sebagai initial state
   // Buatlah handler untuk menambahkan kontak baru yang akan dikirim ke ContactForm
-
   return (
     <div className="App">
       <Grid container spacing={2}>
